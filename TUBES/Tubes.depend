@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672641110 source:c:\users\user\onedrive\documents\coolyeah\3rd term\std\tubes\adt.cpp
+	"adt.h"
+
+1672635365 c:\users\user\onedrive\documents\coolyeah\3rd term\std\tubes\adt.h
+	<iostream>
+
+1672641110 source:c:\users\user\onedrive\documents\coolyeah\3rd term\std\tubes\main.cpp
+	"adt.h"
+
